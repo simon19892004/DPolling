@@ -1,0 +1,3 @@
+GetDevice ()->GetPhy ()
+GetDevice ()->GetNode ()->GetId ()
+GetDevice ()->m_type == SimpleNanoDevice::NanoInterface/NanoNode/NanoRouter
