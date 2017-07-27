@@ -1,7 +1,0 @@
-GetDevice ()->GetPhy ()
-GetDevice ()->GetMac ();
-GetDevice ()->GetNode ()->GetId ()
-GetDevice ()->m_type == SimpleNanoDevice::NanoInterface/NanoNode/NanoRouter
-GetDevice ()->GetMessageProcessUnit ()
-******************************pkt Id***************************************
-p->GetUid()
